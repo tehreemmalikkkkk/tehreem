@@ -26,7 +26,7 @@ I'm a Computer Science student passionate about using **AI, data, and technology
 
 ## ✨ Let's Connect
 - 📫 [LinkedIn](www.linkedin.com/in/tehreemf)  
-- 🌐 [Portfolio](file:///Users/apple/Downloads/Copy%20of%20tehreemmfatima.pdf) *(optional if available)*  
+- 🌐 [Portfolio](file:///Users/apple/Downloads/Copy%20of%20tehreemmfatima.pdf)   
 - 📝 [Published Research](https://arxiv.org/pdf/2409.14194)
 
 Thanks for stopping by! 💜
